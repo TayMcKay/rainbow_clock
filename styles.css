@@ -1,0 +1,14 @@
+body {
+    width: 100vh;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Amatic SC', cursive;
+    transition: background-color 1s linear;
+}
+
+#clock {
+    color: black;
+    font-size: 120px;
+}
